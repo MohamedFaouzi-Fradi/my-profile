@@ -53,13 +53,6 @@ a:hover{
     width: 700px;
 		margin: 40px auto;
   }
-}
-.container{
-	background-color: white;
-	padding: 30px;
-	border-radius:4px;
-	box-shadow: 0 10px 30px;
-}
 .img-circle {
   border-radius: 50%;
 }
